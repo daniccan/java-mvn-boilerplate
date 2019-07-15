@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment> Application Properties</comment>
+    
+    <entry key="PROPERTY_1">This is Property 1</entry>
+    
+    <entry key="PROPERTY_2">This is Property 2</entry>
+    
+    <entry key="PROPERTY_3">This is Property 3</entry>
+</properties>
